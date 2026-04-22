@@ -1,0 +1,39 @@
+# ======================
+# React / Frontend
+# ======================
+node_modules/
+dist/
+build/
+.env
+*.log
+
+# ======================
+# Java / Spring Boot Backend
+# ======================
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven wrapper jar (optional keep or ignore)
+.mvn/wrapper/maven-wrapper.jar
+
+# ======================
+# IDE / Editor
+# ======================
+.vscode/
+.idea/
+*.iml
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Logs
+# ======================
+logs/
+*.log
